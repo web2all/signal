@@ -1,0 +1,22 @@
+{
+    "name": "web2all/signal",
+    "description": "Web2All signal handling",
+    "keywords": ["web2all","shell","signal","kill"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Merijn van den Kroonenberg",
+            "homepage": "https://github.com/merijnvdk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
+
